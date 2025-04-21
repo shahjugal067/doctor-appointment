@@ -1,8 +1,11 @@
 import React from 'react'
+import Layout from '../layout/Layout'
 
 const App = () => {
   return (
-    <div className='text-red-600'>App</div>
+    <div className=''>
+      <Layout />
+    </div>
   )
 }
 

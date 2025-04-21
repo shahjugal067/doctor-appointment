@@ -1,1 +1,15 @@
 @import "tailwindcss";
+
+
+
+@media only screen and (max-width: 1024px) {
+    .container{
+        @apply w-full
+    }
+    
+}
+@media only screen and (max-width: 768px) {
+    
+}
+@media only screen and (max-width: 1024px) {
+}
